@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Java & C++ developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/ELb1hui2UTJy8tVuFJf_bZg0RFo_fp8YOX9MMhPJiI8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcHJvZ3Jh/bW1pbmctY29kaW5n/LWRpZ2l0YWwtbWFy/a2V0aW5nLWI2M3pj/Y3gwNGk0bHVoaDku/Z2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithish-m123&label=Profile%20views&color=0e75b6&style=flat" alt="nithish-m123" /> </p>
 
-- 💬 Ask me about **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
